@@ -1,1 +1,1 @@
-# OrOrcaSlicer-Profile-Manager
+# OrcaSlicer-Profile-Manager
