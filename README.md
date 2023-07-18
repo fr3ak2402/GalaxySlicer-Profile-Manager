@@ -1,1 +1,1 @@
-# OrcaSlicer-Profile-Manager
+# GalaxySlicer-Profile-Manager
