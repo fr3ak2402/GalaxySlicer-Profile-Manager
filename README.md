@@ -5,3 +5,5 @@
 [![GitHub release downloads (latest)](https://img.shields.io/github/downloads/Fr3ak2402/GalaxySlicer-Profile-Manager/latest/total?style=flat-square&label=Downloads&color=%23693A71)](https://github.com/fr3ak2402/GalaxySlicer-Profile-Manager/releases/latest)
 ------------------------------------------------
 init
+
+# Main features
