@@ -12,7 +12,7 @@ init
 
 # Supported printers
 
-The following printers are currently managed by GalaxySlicer Profile Manager: **[Printer list](https://github.com/fr3ak2402/GalaxySlicer-Profile-Library/wiki/Supported-printers)**
+The following printers are currently managed by the GalaxySlicer Profile Manager: **[Printer list](https://github.com/fr3ak2402/GalaxySlicer-Profile-Library/wiki/Supported-printers)**
 
 # Pre-compiled releases
 Currently, only Windows, macOS x64 & arm64 releases are precompiled.
