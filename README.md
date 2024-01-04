@@ -33,3 +33,6 @@ GalaxySlicer has been tested under the following operating systems so that full 
 ![Windows 11: x64](https://img.shields.io/badge/Windows-x64-blue?style=flat-square&logo=Windows11&label=Windows%2011&labelColor=blue&color=gray)
 
 _Linux distubitions are not supported by us at the moment._
+
+# License
+GalaxySlicer Profile Manager is licensed under the MIT License.
