@@ -8,7 +8,13 @@ init
 
 # Main features
 
-- Coming Soon
+- Clear management of profiles for the GalaxySlicer
+- Automatic update search of the database
+- Automatic update search of the GalaxySlicer Profile Manager
+- Creating profiles
+- Updating profiles
+- Deleting profiles (Coming Soon)
+- Conversion of profiles for the GalaxySlicer (Coming Soon)
 
 # Supported printers
 
