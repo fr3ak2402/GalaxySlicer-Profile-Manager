@@ -13,7 +13,7 @@ The GalaxySlicer offers a new option for managing GalaxySlicer profiles. This ca
 - Automatic update search of the GalaxySlicer Profile Manager
 - Creating profiles
 - Updating profiles
-- Deleting profiles (Coming Soon)
+- Deleting profiles
 - Conversion of profiles for the GalaxySlicer (Coming Soon)
 
 # Supported printers
